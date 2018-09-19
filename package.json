@@ -1,0 +1,27 @@
+{
+  "name": "nodesever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cldcldcld/nodeSever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cldcldcld/nodeSever/issues"
+  },
+  "homepage": "https://github.com/cldcldcld/nodeSever#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.7.0"
+  }
+}
